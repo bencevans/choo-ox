@@ -1,4 +1,4 @@
-# choo-xo
+# choo-ox
 A very cute app
 
 ## Routes
